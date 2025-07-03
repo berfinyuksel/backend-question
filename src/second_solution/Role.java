@@ -1,3 +1,5 @@
+package second_solution;
+
 public interface Role {
     void perform();
 

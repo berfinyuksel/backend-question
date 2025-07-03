@@ -1,3 +1,4 @@
+package first_solution;
 
 import java.util.HashSet;
 import java.util.Set;
